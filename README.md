@@ -1,2 +1,17 @@
 # TempRule
-The WEB game is a parody of the game "Reigns", but with historical figures and rulers of that time
+
+## Содержание
+
+## Введение
+
+## Схема реализации
+
+## Исторические источники
+
+## Полезные ссылки
+
+
+<br><br>
+<br><br>
+
+###### 10.11.2024
