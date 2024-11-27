@@ -1,12 +1,12 @@
 //
-// Страница непосредственного поражения.
-// Страница является статичной, но с присутствием некоторых анимаций
+// Страница регистрации и авторизации пользователей.
+// Страница необходима для работы с пользовательской статистикой и профилями.
 //
 
 import { StyleSheet, View, Text } from 'react-native';
 import * as React from 'react';
 
-export const GameoverScreen = () => {
+export const AuthScreen = () => {
     return (
         <View style={styles.container}>
             <Text>Hello Help</Text>

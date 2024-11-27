@@ -1,12 +1,11 @@
 //
-// Страница непосредственного поражения.
-// Страница является статичной, но с присутствием некоторых анимаций
+// Страница рейтинга зарегистрированных пользователей
 //
 
 import { StyleSheet, View, Text } from 'react-native';
 import * as React from 'react';
 
-export const GameoverScreen = () => {
+export const StatScreen = () => {
     return (
         <View style={styles.container}>
             <Text>Hello Help</Text>
